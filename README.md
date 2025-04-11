@@ -1,4 +1,4 @@
-# 👋 Salut ! Moi c'est YASSMIN ,
+# 👋 Hello! I'm YASSMIN,
 
 ## 💻 Web, Mobile & Software Developer
 
@@ -43,7 +43,7 @@ I'm passionate about building digital experiences across platforms — from web 
 
 ## 📫 Contact
 
-- ✉️ [email@example.com](mailto:bachikhyassmin@gmail.com)
+- ✉️ [bachikhyassmin@gmail.com](mailto:bachikhyassmin@gmail.com)
 - 🌐 [portfolio.com](https://portfolio.com) *(optionnel)*
 
 
