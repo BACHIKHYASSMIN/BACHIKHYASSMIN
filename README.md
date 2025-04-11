@@ -19,7 +19,12 @@
 - **Back-end**: Node.js, Express, Python, PHP
 - **Base de données**: MongoDB, MySQL, Firebase
 - **Outils**: Git, Docker, Figma, VSCode
+
+## 📊 Mes statistiques GitHub
+
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amine-dev&layout=compact&theme=radical)
 
 <!--
 **BACHIKHYASSMIN/BACHIKHYASSMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
