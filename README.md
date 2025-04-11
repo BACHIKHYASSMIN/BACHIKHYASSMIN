@@ -1,13 +1,14 @@
 # 👋 Salut ! Moi c'est YASSMIN ,
 
-## 💻 Développeur Web, Mobile & Logiciel
+## 💻 Web, Mobile & Software Developer
 
-Passionné par la création de solutions innovantes. Je développe des applications web, mobiles (Android) et logiciels avec une variété de technologies.
+I'm passionate about building digital experiences across platforms — from web to mobile to IoT systems. I enjoy turning ideas into real-world applications using diverse technologies.
 
 ---
-## 🛠️ Stack Technique
 
-### 🧠 Langages & Frameworks
+## 🛠️ Tech Stack
+
+### 🚀 Languages & Frameworks
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,31 +21,27 @@ Passionné par la création de solutions innovantes. Je développe des applicati
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### 🗄️ Bases de données
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🔥 Projets récents
+## 🔥 Last Projects
 - 🚀 [TARMEEM Platform](https://github.com/tonprofil/tarmeem) – Plateforme de visualisation d’un graphe de connaissance du patrimoine
 - 📱 [App mobile Flutter](https://github.com/tonprofil/app-mobile) – Application mobile pour gestion de tâches
 - 🌐 [Portfolio React](https://github.com/tonprofil/portfolio) – Site vitrine personnel
 
-## 🛠️ Stack technique
-- **Front-end**: React, HTML, CSS, Tailwind, Flutter
-- **Back-end**: Node.js, Express, Python, PHP
-- **Base de données**: MongoDB, MySQL, Firebase
-- **Outils**: Git, Docker, Figma, VSCode
 
-## 📊 Mes statistiques GitHub
+## 📈 GitHub Stats
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=BACHIKHYASSMIN&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BACHIKHYASSMIN&layout=compact&theme=radical)
 
-## 📫 Me contacter
+
+## 📫 Contact
 
 - ✉️ [email@example.com](mailto:bachikhyassmin@gmail.com)
 - 🌐 [portfolio.com](https://portfolio.com) *(optionnel)*
