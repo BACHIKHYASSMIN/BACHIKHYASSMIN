@@ -9,6 +9,17 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+## 🔥 Projets récents
+- 🚀 [TARMEEM Platform](https://github.com/tonprofil/tarmeem) – Plateforme de visualisation d’un graphe de connaissance du patrimoine
+- 📱 [App mobile Flutter](https://github.com/tonprofil/app-mobile) – Application mobile pour gestion de tâches
+- 🌐 [Portfolio React](https://github.com/tonprofil/portfolio) – Site vitrine personnel
+
+## 🛠️ Stack technique
+- **Front-end**: React, HTML, CSS, Tailwind, Flutter
+- **Back-end**: Node.js, Express, Python, PHP
+- **Base de données**: MongoDB, MySQL, Firebase
+- **Outils**: Git, Docker, Figma, VSCode
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
 
 <!--
 **BACHIKHYASSMIN/BACHIKHYASSMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
